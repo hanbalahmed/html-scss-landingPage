@@ -1,0 +1,22 @@
+@media (max-width: 630px) {
+  nav {
+    display: grid;
+    text-align: center;
+    position: fixed;
+  }
+
+  .logo {
+    margin-bottom: 10px;
+    display: none;
+  }
+
+  .nav-links {
+    background: rgb(2, 2, 22);
+    padding: 15px;
+    border-radius: 2px;
+  }
+
+  //   .hero {
+  //     background-image: url("../images/promofinal.jpg");
+  //   }
+}
