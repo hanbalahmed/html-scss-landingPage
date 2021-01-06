@@ -37,6 +37,9 @@ nav {
   font-size: 1.5rem;
   text-transform: uppercase;
   background: linear-gradient(45deg, $primary-color, silver);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 
   h4 {
     margin-top: 24px;
